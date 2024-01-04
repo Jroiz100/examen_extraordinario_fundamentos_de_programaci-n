@@ -1,0 +1,3 @@
+﻿  proyecto coliseo.cpp
+C:\Users\Joel Roiz\source\repos\proyecto coliseo\proyecto coliseo\proyecto coliseo.cpp(34,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  proyecto coliseo.vcxproj -> C:\Users\Joel Roiz\source\repos\proyecto coliseo\Debug\proyecto coliseo.exe

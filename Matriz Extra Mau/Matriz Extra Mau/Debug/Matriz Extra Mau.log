@@ -1,0 +1,3 @@
+﻿  Matriz Extra Mau.cpp
+C:\Users\Joel Roiz\source\repos\Matriz Extra Mau\Matriz Extra Mau\Matriz Extra Mau.cpp(19,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Matriz Extra Mau.vcxproj -> C:\Users\Joel Roiz\source\repos\Matriz Extra Mau\Debug\Matriz Extra Mau.exe
